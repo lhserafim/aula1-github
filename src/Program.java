@@ -3,6 +3,7 @@ import java.util.Scanner;
 public class Program {
     public static void main(String args[]) {
         Scanner sc = new Scanner(System.in);
+        System.out.println("BOM DIA");
         System.out.println("Informe a dimensão da matriz. L : C");
 
         int l, c;
